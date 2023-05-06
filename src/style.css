@@ -1,0 +1,33 @@
+
+.container {
+    text-align: center;
+    width: 30%;
+    height: 10rem;
+    display: inline-block;
+    border: 3px solid goldenrod;
+    /* background-color: green;s */
+}
+
+.btn-container {
+    position: absolute;
+    width: 10%;
+    /* background-color: blue; */
+    
+}
+
+.btn {
+    position: relative;
+    left: 12px;
+}
+
+.task-container {
+    text-align: center;
+    position: absolute;
+    width: 30.1%;
+    overflow: auto;
+    border: 2px solid yellowgreen;
+}
+
+.taskTitle {
+    left: 20px
+}
